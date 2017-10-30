@@ -16667,3 +16667,7 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+#### Name:[Himanshu Thanna](https://github.com/himanshuthanna)
+-Place:Royal Paradise,Greater Noida,U.P(West)
+-Bio:Student,Persuing B.tech in Cloud Computing and Virtualization
+-GitHub:[Himanshu Thanna](https://github.com/himanshuthanna)
